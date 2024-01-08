@@ -1,1 +1,1 @@
-print("Proyecto de fundamentos de diseño")
+Proyecto de fundamentos de diseño
